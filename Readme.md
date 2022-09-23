@@ -415,8 +415,8 @@ Conflito ocorre quando mais de uma via alterou o mesmo arquivo.
 
 A resolução de conflito é uma operação manual, que exige habilidade do desenvolvedor. 
 
-	1. Edite o código fonte, resolvendo o conflito 
-	1.  Faça um novo commit
+1. Edite o código fonte, resolvendo o conflito 
+2. Faça um novo commit
 
 ### Procedimento fork + pull request
 
